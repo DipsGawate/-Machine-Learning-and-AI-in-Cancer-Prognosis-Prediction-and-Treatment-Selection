@@ -36,7 +36,7 @@ To set up this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/Mayurdoiphode55/Machine-Learning-and-AI-in-Cancer-Prognosis-Prediction-and-Treatment-Selection.git](https://github.com/Mayurdoiphode55/Machine-Learning-and-AI-in-Cancer-Prognosis-Prediction-and-Treatment-Selection.git)
+    git clone [https://github.com/DipsGawate/-Machine-Learning-and-AI-in-Cancer-Prognosis-Prediction-and-Treatment-Selection.git](https://github.com/DipsGawate/-Machine-Learning-and-AI-in-Cancer-Prognosis-Prediction-and-Treatment-Selection.git)
     cd Machine-Learning-and-AI-in-Cancer-Prognosis-Prediction-and-Treatment-Selection
     ```
 
