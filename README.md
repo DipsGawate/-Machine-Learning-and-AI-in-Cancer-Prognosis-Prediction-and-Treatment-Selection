@@ -93,6 +93,6 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## 📧 Contact
 
-Mayur Doiphode
+Dipali Tagad
 
-Project Link: [https://github.com/Mayurdoiphode55/Machine-Learning-and-AI-in-Cancer-Prognosis-Prediction-and-Treatment-Selection](https://github.com/Mayurdoiphode55/Machine-Learning-and-AI-in-Cancer-Prognosis-Prediction-and-Treatment-Selection)
+Project Link:https://github.com/DipsGawate/-Machine-Learning-and-AI-in-Cancer-Prognosis-Prediction-and-Treatment-Selection.git
